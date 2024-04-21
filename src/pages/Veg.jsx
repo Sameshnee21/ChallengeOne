@@ -10,10 +10,10 @@ export function Veg() {
       <div className="shopTitle">
       <h2>Chilli Paneer</h2>
       <h3>Recipe Here.</h3>
-        <img src="Veg1" alt="" />
+        <img src="Veg1.png" alt="" />
         <h2>Potatoe Pockets</h2>
         <h3>Recipe Here.</h3>
-        <img src="Veg2" alt="" />
+        <img src="Veg2.png" alt="" />
         <h2>Tomato Pasta</h2>
         <h3>Recipe Here.</h3>
         <img src="Veg3.png" alt="" />

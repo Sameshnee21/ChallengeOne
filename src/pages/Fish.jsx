@@ -10,13 +10,13 @@ export function Fish() {
       <div className="shopTitle">
         <h2>Salmon Nigiri</h2>
         <h3>Recipe Here.</h3>
-        <img src="Fish1" alt="" />
+        <img src="Fish1.png" alt="" />
         <h2>Cheesy Garlic Mussels</h2>
         <h3>Recipe Here.</h3>
-        <img src="Fish2" alt="" />
+        <img src="Fish2.png" alt="" />
         <h2>Calamari Steaks</h2>
         <h3>Recipe Here.</h3>
-        <img src="Fish3" alt="" />
+        <img src="Fish3.png" alt="" />
       </div>
 
       <div className="fish">

@@ -10,13 +10,13 @@ export function Vegan() {
       <div className="shopTitle">
       <h2>Burrito</h2>
       <h3>Recipe Here.</h3>
-        <img src="Vegan1" alt="" />
+        <img src="Vegan1.png" alt="" />
         <h2>Peanut Chutney</h2>
         <h3>Recipe Here.</h3>
-        <img src="Vegan2" alt="" />
+        <img src="Vegan2.png" alt="" />
         <h2>Pizza</h2>
         <h3>Recipe Here.</h3>
-        <img src="Vegan3" alt="" />
+        <img src="Vegan3.png" alt="" />
       </div>
 
       <div className="vegan">

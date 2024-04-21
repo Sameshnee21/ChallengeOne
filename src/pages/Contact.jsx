@@ -10,13 +10,13 @@ export function Contact() {
       <div className="shopTitle">
       <h2>Lamb Rack</h2>
       <h3>Recipe Here.</h3>
-        <img src="Meat1" alt="" />
+        <img src="Meat1.png" alt="" />
         <h2>Chicken Burger</h2>
         <h3>Recipe Here.</h3>
-        <img src="Meat2" alt="" />
+        <img src="Meat2.png" alt="" />
         <h2>Roast Duck</h2>
         <h3>Recipe Here.</h3>
-        <img src="Meat3" alt="" />
+        <img src="Meat3.png" alt="" />
       </div>
 
       <div className="meat">

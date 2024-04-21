@@ -10,10 +10,10 @@ export function Dessert() {
       <div className="shopTitle">
       <h2>Berry Tart</h2>
       <h3>Recipe Here.</h3>
-        <img src="Dessert1" alt="" />
+        <img src="Dessert1.png" alt="" />
         <h2>Baklava</h2>
         <h3>Recipe Here.</h3>
-        <img src="Dessert2" alt="" />
+        <img src="Dessert2.png" alt="" />
         <h2>Iced Coffee</h2>
         <h3>Recipe Here.</h3>
         <img src="Dessert3.png" alt="" />

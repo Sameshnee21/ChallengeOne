@@ -10,6 +10,7 @@ export function Shop() {
     <div className="shop">
       <div className="shopTitle">
         <h1>Cooking up a Storm: Online Recipe Book</h1>
+        <h2>Click on your favourite recipes and add them to your list.</h2>
       </div>
 
       <div className="products">

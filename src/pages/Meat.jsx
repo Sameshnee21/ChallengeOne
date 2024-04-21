@@ -9,11 +9,11 @@ export function meat() {
     <div className="shop">
       <div className="shopTitle">
         <h2>Salmon Nigiri</h2>
-        <img src="Meat1" alt="" />
+        <img src="Meat1.png" alt="" />
         <h2>Cheesy Garlic Mussels</h2>
-        <img src="Meat22" alt="" />
+        <img src="Meat2.png" alt="" />
         <h2>Calamari Steaks</h2>
-        <img src="Meat3" alt="" />
+        <img src="Meat3.png" alt="" />
       </div>
 
       <div className="meat">

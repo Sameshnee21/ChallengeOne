@@ -26,7 +26,7 @@ export const PRODUCTS = [
   },
   {
     id: 2,
-    productName: "Baklava",
+    productName: "Baklava: nuts",
     
     productImage: product2,
   },
