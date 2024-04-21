@@ -2,7 +2,7 @@
 
 
 import useState from "react";
-//import { VEG } from "./filter/veg";
+import { VEGAN } from "./filter/vegan";
 
 export function Vegan() {
   return (
@@ -12,9 +12,9 @@ export function Vegan() {
       </div>
 
       <div className="vegan">
-        {/*{VEG.map((veg) => (*/}
-          {/*<Veg key={veg.id} data={veg} />
-        ))}*/}
+        {VEGAN.map((vegan) => (
+          <Vegan key={vegan.id} data={vegan} />
+        ))}
       </div>
     </div>
   );

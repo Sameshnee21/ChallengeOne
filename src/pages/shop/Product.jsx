@@ -12,7 +12,7 @@ function Product({ data }) {
       <img src={productImage} />
       <div className="description">
         <p>{productName}</p>
-        {/*<p>Price: ${price}</p>*/}
+        
       </div>
       
       <button className="addToCartBttn" onClick={() => addToCart(id)}>
