@@ -11,7 +11,7 @@ export function Navbar() {
         <Link to={"/vegan"}>Vegan</Link>
         <Link to={"/veg"}>Vegetarian</Link>
         <Link to={"/dessert"}>Sweet</Link>
-        <Link to={"/meat"}>Meat</Link>
+        <Link to={"/contact"}>Meat</Link>
         <Link to={"/fish"}>Fish</Link>
        
         <Link to={"/cart"}>

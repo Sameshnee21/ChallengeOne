@@ -8,7 +8,15 @@ export function Veg() {
   return (
     <div className="shop">
       <div className="shopTitle">
-        <h1>Vegetarian</h1>
+      <h2>Chilli Paneer</h2>
+      <h3>Recipe Here.</h3>
+        <img src="Veg1" alt="" />
+        <h2>Potatoe Pockets</h2>
+        <h3>Recipe Here.</h3>
+        <img src="Veg2" alt="" />
+        <h2>Tomato Pasta</h2>
+        <h3>Recipe Here.</h3>
+        <img src="Veg3.png" alt="" />
       </div>
 
       <div className="veg">

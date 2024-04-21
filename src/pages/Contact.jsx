@@ -1,7 +1,29 @@
-/*Contact Page */
+/*Veg Page */
 
-import React from "react";
+
+import useState from "react";
+//import { VEG } from "./filter/veg";
 
 export function Contact() {
-  return <div>Meat</div>;
+  return (
+    <div className="shop">
+      <div className="shopTitle">
+      <h2>Lamb Rack</h2>
+      <h3>Recipe Here.</h3>
+        <img src="Meat1" alt="" />
+        <h2>Chicken Burger</h2>
+        <h3>Recipe Here.</h3>
+        <img src="Meat2" alt="" />
+        <h2>Roast Duck</h2>
+        <h3>Recipe Here.</h3>
+        <img src="Meat3" alt="" />
+      </div>
+
+      <div className="meat">
+        {/*{VEG.map((veg) => (*/}
+          {/*<Veg key={veg.id} data={veg} />
+        ))}*/}
+      </div>
+    </div>
+  );
 }

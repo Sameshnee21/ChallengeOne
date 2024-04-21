@@ -1,20 +1,28 @@
-/*Vegan Page */
+/*Veg Page */
 
 
 import useState from "react";
-import { VEGAN } from "./filter/vegan";
+//import { VEG } from "./filter/veg";
 
 export function Vegan() {
   return (
     <div className="shop">
       <div className="shopTitle">
-        <h1>Vegan</h1>
+      <h2>Burrito</h2>
+      <h3>Recipe Here.</h3>
+        <img src="Vegan1" alt="" />
+        <h2>Peanut Chutney</h2>
+        <h3>Recipe Here.</h3>
+        <img src="Vegan2" alt="" />
+        <h2>Pizza</h2>
+        <h3>Recipe Here.</h3>
+        <img src="Vegan3" alt="" />
       </div>
 
       <div className="vegan">
-        {VEGAN.map((vegan) => (
-          <Vegan key={vegan.id} data={vegan} />
-        ))}
+        {/*{VEG.map((veg) => (*/}
+          {/*<Veg key={veg.id} data={veg} />
+        ))}*/}
       </div>
     </div>
   );

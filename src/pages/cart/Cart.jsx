@@ -16,6 +16,7 @@ export function Cart() {
     <div className="cart">
       <div>
         <h1>FAVOURITES LIST...</h1>
+        <h2>Click the - button to remove the recipes from your list.</h2>
       </div>
       <div className="cart">
         {PRODUCTS.map((product) => {

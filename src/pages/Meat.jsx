@@ -4,22 +4,19 @@
 import useState from "react";
 //import { VEG } from "./filter/veg";
 
-export function Fish() {
+export function meat() {
   return (
     <div className="shop">
       <div className="shopTitle">
         <h2>Salmon Nigiri</h2>
-        <h3>Recipe Here.</h3>
-        <img src="Fish1" alt="" />
+        <img src="Meat1" alt="" />
         <h2>Cheesy Garlic Mussels</h2>
-        <h3>Recipe Here.</h3>
-        <img src="Fish2" alt="" />
+        <img src="Meat22" alt="" />
         <h2>Calamari Steaks</h2>
-        <h3>Recipe Here.</h3>
-        <img src="Fish3" alt="" />
+        <img src="Meat3" alt="" />
       </div>
 
-      <div className="fish">
+      <div className="meat">
         {/*{VEG.map((veg) => (*/}
           {/*<Veg key={veg.id} data={veg} />
         ))}*/}
