@@ -10,7 +10,7 @@ export function Navbar() {
         <Link to={"/"}>Full Recipebook</Link>
         <Link to={"/vegan"}>Vegan</Link>
         <Link to={"/veg"}>Vegetarian</Link>
-        <Link to={"/dessert"}>Desserts</Link>
+        <Link to={"/dessert"}>Sweet</Link>
         <Link to={"/meat"}>Meat</Link>
         <Link to={"/fish"}>Fish</Link>
        

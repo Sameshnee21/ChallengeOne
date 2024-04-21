@@ -14,12 +14,13 @@ function Product({ data }) {
         <p>{productName}</p>
         {/*<p>Price: ${price}</p>*/}
       </div>
+      
       <button className="addToCartBttn" onClick={() => addToCart(id)}>
         Add Recipe to List 
       </button>
-      <button className="Info">
-        info
-      </button>
+
+      
+      
     </div>
   );
 }

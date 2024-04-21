@@ -1,24 +1,24 @@
-import product1 from "./assets/products/Dessert1.png";
-import product2 from "./assets/products/Dessert2.png";
-import product3 from "./assets/products/Dessert3.png";
+import dessert1 from "./assets/products/Dessert1.png";
+import dessert2 from "./assets/products/Dessert2.png";
+import dessert3 from "./assets/products/Dessert3.png";
 
-export const PRODUCTS = [
+export const DESSERT = [
     {
       id: 1,
-      productName: "Berry Tart",
-      price: 999.0,
-      productImage: product1,
+      DESSERTName: "Berry Tart",
+      
+      dessertImage: dessert1,
     },
     {
       id: 2,
-      productName: "Baklava",
-      price: 1999.0,
-      productImage: product2,
+      dessertName: "Baklava",
+     
+      desserrtImage: dessert2,
     },
     {
       id: 3,
       productName: "Iced Coffee",
-      price: 699.0,
-      productImage: product3,
+      
+      dessertImage: dessrert3,
     }
 ];

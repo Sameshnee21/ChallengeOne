@@ -19,9 +19,9 @@ import product15 from "./assets/products/Fish3.png";
 export const PRODUCTS = [
   {
     id: 1,
-    productName: "Berry Tart",
-    
+    productName: "Berry Tart: Wheat, eggs, nuts",
     productImage: product1,
+    
     
   },
   {
@@ -32,43 +32,43 @@ export const PRODUCTS = [
   },
   {
     id: 3,
-    productName: "Iced Coffee",
+    productName: "Iced Coffee: Strictly Vegan Ingredients",
     
     productImage: product3,
   },
   {
     id: 4,
-    productName: "Chilli Paneer",
+    productName: "Chilli Paneer: Milk and cashews",
     
     productImage: product4,
   },
   {
     id: 5,
-    productName: "Potato Pockets",
+    productName: "Potato Pockets: wheat",
     
     productImage: product5,
   },
   {
     id: 6,
-    productName: "Tomatoe Pasta",
+    productName: "Tomatoe Pasta: Gluten free option here",
     
     productImage: product6,
   },
   {
     id: 7,
-    productName: "Vegan Burrito",
+    productName: "Burrito: Strictly Vegan Ingredients",
     
     productImage: product7,
   },
   {
     id: 8,
-    productName: "Vegan Peanut Chutney",
+    productName: "Peanut Chutney: Strictly Vegan Ingredients",
    
     productImage: product8,
   },
   {
     id: 9,
-    productName: "Vegan Pizza",
+    productName: "Pizza: Strictly Vegan Ingredients",
     
     productImage: product9,
   },
@@ -80,7 +80,7 @@ export const PRODUCTS = [
   },
   {
     id: 11,
-    productName: "Classic Chicken Burger",
+    productName: "Classic Chicken Burger: wheat, gluten, egg",
     
     productImage: product11,
   },
@@ -98,13 +98,13 @@ export const PRODUCTS = [
   },
   {
     id: 14,
-    productName: "Cheesy Garlic Mussels",
+    productName: "Cheesy Garlic Mussels: Milk",
     
     productImage: product14,
   },
   {
     id: 15,
-   productName: "Calamari Steaks",
+   productName: "Calamari Steaks: Wheat and eggs",
     
     productImage: product15,
   },
